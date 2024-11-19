@@ -3,7 +3,7 @@
 This project from DLCV(Deep Learing of Computer Vision) hwr.
 
 After excuted step shows below, the script will generate images of hotdog shows below.
-![Template](https://raw.githubusercontent.com/Cyx06/DLCV_GAN-DDPM-DANN/main/template.png)
+![Template](https://raw.githubusercontent.com/Cyx06/DLCV_3DViewSynthesis_SelfSupervise/main/template.png)
 
 ## How to Use This Code
 
